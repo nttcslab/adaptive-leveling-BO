@@ -1,6 +1,6 @@
 
 ### Paper
-Paper is here: `link comes here after publication`
+Paper URL: https://doi.org/10.1063/5.0132768
 
 Cite the following article to refer to this work.
 ```BibTeX
@@ -8,9 +8,9 @@ Cite the following article to refer to this work.
   title = {Stoichiometric growth of SrTiO$_3$ films via {Bayesian} optimization with adaptive prior mean},
   author = {Yuki K. Wakabayashi and Takuma Otsuka and Yoshiharu Krockenberger and Hiroshi Sawada and Yoshitaka Taniyasu and Hideki Yamamoto},
   journal = {APL Machine Learning},
-  volume = {},
-  number = {},
-  doi = {},
+  volume = {1},
+  pages = {026104},
+  doi = {https://doi.org/10.1063/5.0132768},
   year = {2023}
 }
 ```
