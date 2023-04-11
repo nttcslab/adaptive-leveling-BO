@@ -63,4 +63,6 @@ Codes are confirmed to run with the following libraries. Likely to be compatible
 * `obj_func.py`: Implements objective functions. 
 * `visualize.py`: Contains some functions to plot optimization results. 
 * `utils.py`: Contains internal functions. 
-* `lhsmdu.py`: Latin hypercube sampling package for acquisition function. Repository: https://dx.doi.org/10.5281/zenodo.2578780  Paper:http://dx.doi.org/10.1016%2Fj.jspi.2011.09.016
+* `lhsmdu.py`: Latin hypercube sampling package for acquisition function. Repository: https://dx.doi.org/10.5281/zenodo.2578780  
+* `physical_property_measurement_data`: raw measurements corresponding to Figs 5, 6, 7a, 9, and 10.
+Paper:http://dx.doi.org/10.1016%2Fj.jspi.2011.09.016
